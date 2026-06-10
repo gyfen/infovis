@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+    id: 2201bb55-2263-4145-87d1-34fbb329bdd2
+    title: "infovis"
+    description: "vis"
+    # keywords: []
+    # authors: []
+    # github:
+    # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+    template: book-theme
+    # options:
+    #   favicon: favicon.ico
+    #   logo: site_logo.png
