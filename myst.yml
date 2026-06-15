@@ -9,15 +9,12 @@ project:
     github: "gyfen/infovis"
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
-    exclude_patterns:
-    - "*.md"
+    toc:
+    - file: docs/story.ipynb
+    - file: docs/process_data.ipynb
 
 site:
     template: book-theme
     # options:
     #   favicon: favicon.ico
     #   logo: site_logo.png
-
-toc:
-  - file: docs/story.ipynb
-  - file: docs/process_data.ipynb
