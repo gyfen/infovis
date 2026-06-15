@@ -15,8 +15,7 @@ project:
     - file: docs/2_data.ipynb
     - file: docs/3_inhoud.ipynb
     - file: docs/4_reflectie.ipynb
-    - file: docs/5_werkverdeling.ipynb
-    - file: docs/6_bijlagen.ipynb
+    - file: docs/5_bijlagen.ipynb
 
 site:
     template: book-theme
