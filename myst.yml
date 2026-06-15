@@ -10,8 +10,7 @@ project:
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
     exclude:
-    - README.md
-    - TUTORIAL.md
+        - "*.md"
 site:
     template: book-theme
     # options:
