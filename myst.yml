@@ -17,3 +17,7 @@ site:
     # options:
     #   favicon: favicon.ico
     #   logo: site_logo.png
+
+toc:
+  - file: docs/story.ipynb
+  - file: docs/process_data.ipynb
