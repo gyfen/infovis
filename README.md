@@ -2,15 +2,15 @@
 Visit the [website](https://gyfen.github.io/infovis). By Lisa Hölscher, Nina Barnhoorn, Sofia van den Berg, Yifan Chen. Group 4
 
 ## Getting started
-Install Python 3.14.5
+Install Python 3.14.5: https://www.python.org/downloads/
 
-Clone the project
+Clone the project.
 ``` bash
 git clone https://github.com/gyfen/infovis.git
 cd info-vis
 ```
 
-Create and activate the venv https://docs.python.org/3/library/venv.html#how-venvs-work
+Create and activate the venv: https://docs.python.org/3/library/venv.html#how-venvs-work. Below an example for windows:
 ``` bash
 # Create venv
 python -m venv venv
@@ -19,7 +19,7 @@ python -m venv venv
 ./venv/Scripts/Activate.ps1
 ```
 
-Install requirements
+Install the requirements.
 ``` bash
 pip install -r requirements.txt
 pip install jupyter-book
