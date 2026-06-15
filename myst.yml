@@ -6,7 +6,7 @@ project:
     description: "Criminaliteit"
     # keywords: []
     # authors: []
-    github: "https://gyfen.github.io/infovis/"
+    github: "gyfen/infovis"
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
     exclude_patterns:
