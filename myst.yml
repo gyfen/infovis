@@ -2,12 +2,16 @@
 version: 1
 project:
     id: 2201bb55-2263-4145-87d1-34fbb329bdd2
-    title: "infovis"
-    description: "vis"
+    title: "Criminaliteit"
+    description: "Criminaliteit"
     # keywords: []
     # authors: []
     # github:
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
+    exclude:
+    - README.md
+    - TUTORIAL.md
 site:
     template: book-theme
     # options:

@@ -1,4 +1,3 @@
-# Infovis group 4
+# Information visualisation GROUP 4
 
-vis
-blahblahblah test bwwhr
+website: [gyfen.github.io/infovis](gyfen.github.io/infovis)
