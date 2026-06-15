@@ -19,8 +19,11 @@
 
 ---
 
-# Help venv
-
+# How to congfigure the project
 - create venv: python -m venv venv
 - activate venv: ./venv/Scripts/Activate.ps1
 - install libraries: pip install -r requirements.txt
+
+## How to run the book locally
+- `pip install jupyter-book`
+- `juptyer book start`
