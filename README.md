@@ -1,3 +1,3 @@
 # Information visualisation GROUP 4
 
-website: [gyfen.github.io/infovis](gyfen.github.io/infovis)
+website: [https://gyfen.github.io/infovis](https://gyfen.github.io/infovis)
