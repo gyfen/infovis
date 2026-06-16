@@ -1,6 +1,7 @@
 ########### CUSTOM
 
 _build/
+data/raw/
 
 
 ########### END CUSTOM
