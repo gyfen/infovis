@@ -11,14 +11,15 @@ project:
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
     toc:
-    - file: docs/1_introductie.ipynb
-    - file: docs/2_data.ipynb
-    - file: docs/3_inhoud.ipynb
-    - file: docs/4_reflectie.ipynb
-    - file: docs/5_bijlagen.ipynb
+        - file: docs/1_introductie.ipynb
+        - file: docs/2_data.ipynb
+        - file: docs/3_inhoud.ipynb
+        - file: docs/4_reflectie.ipynb
+        - file: docs/5_bijlagen.ipynb
+        - file: docs/infovis.ipynb
 
 site:
     template: book-theme
     options:
-      favicon: static/imgs/favicon.ico
-      logo: static/imgs/site_logo.png
+        favicon: static/imgs/favicon.ico
+        logo: static/imgs/site_logo.png
