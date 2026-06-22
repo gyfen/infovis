@@ -1,6 +1,6 @@
 # Criminaliteit in de VS: oost vs west
 
-An Information Visualization project. To view the data story, visit the [website](https://gyfen.github.io/infovis) or run the notebook locally by following the steps in [getting started](#1-getting-started).
+An Information Visualization project. To view the data story, visit the [website](https://gyfen.github.io/infovis) or run the notebook locally by following the steps in [getting started](#getting-started).
 
 By Lisa Hölscher, Nina Barnhoorn, Yifan Chen. Group 4
 
