@@ -1,4 +1,4 @@
-# Criminaliteit in de VS: oost vs west
+# Criminaliteit in de VS: New York vs Los Angeles
 
 An Information Visualization project. To view the data story, visit the [website](https://gyfen.github.io/infovis) or run the notebook locally by following the steps in [getting started](#getting-started).
 

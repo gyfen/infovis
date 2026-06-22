@@ -2,8 +2,8 @@
 version: 1
 project:
     id: 2201bb55-2263-4145-87d1-34fbb329bdd2
-    title: "Criminaliteit in de VS: oost vs west"
-    description: "Criminaliteit in de VS: oost vs west"
+    title: "Criminaliteit in de VS: New York vs Los Angeles"
+    description: "Criminaliteit in de VS: New York vs Los Angeles"
     # keywords: []
     # authors: ["Information Visualisation Groep 4"]
     github: "gyfen/infovis"
