@@ -22,3 +22,4 @@ site:
     options:
         favicon: static/imgs/favicon.ico
         logo: static/imgs/site_logo.png
+        style: static/css/custom.css  # Path to your CSS file
