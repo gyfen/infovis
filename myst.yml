@@ -13,7 +13,7 @@ project:
     toc:
         - file: docs/1_introductie.ipynb
         - file: docs/2_data.ipynb
-        - file: docs/3_argumenten.ipynb
+        - file: docs/3_story.ipynb
         - file: docs/4_reflectie.ipynb
         - file: docs/5_bijlagen.ipynb
 
