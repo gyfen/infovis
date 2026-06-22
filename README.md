@@ -1,10 +1,12 @@
-# Information visualisation: Criminaliteit
+# Criminaliteit in de VS: oost vs west
 
-Visit the [website](https://gyfen.github.io/infovis). By Lisa Hölscher, Nina Barnhoorn, Yifan Chen. Group 4
+An Information Visualization project. To view the data story, visit the [website](https://gyfen.github.io/infovis) or run the notebook locally by following the steps in [getting started](#1-getting-started).
+
+By Lisa Hölscher, Nina Barnhoorn, Yifan Chen. Group 4
 
 ## Getting started
 
-Install Python 3.14.5: https://www.python.org/downloads/
+Install Python 3.14.6: https://www.python.org/downloads/
 
 Clone the project.
 
@@ -26,8 +28,9 @@ python -m venv venv
 Install the requirements.
 
 ```bash
+pip install ipykernel==7.3.0
+pip install jupyter-book==2.1.5
 pip install -r requirements.txt
-pip install jupyter-book
 ```
 
 ## Usage
