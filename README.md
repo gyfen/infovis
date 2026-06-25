@@ -1,6 +1,6 @@
 # Criminaliteit in de VS: New York vs Los Angeles
 
-An Information Visualization project. To view the data story, visit the [website](https://gyfen.github.io/infovis) or run the notebook locally by following the steps in [getting started](#getting-started).
+An Information Visualization project. To view the data story, visit the [website](https://gyfen.github.io/infovis). If you have visited the website before, you may have to refresh _every_ page (CRTL + SHIFT + R). Alternatively, run the notebook locally by following the steps in [getting started](#getting-started).
 
 By Group 4: Lisa Hölscher, Nina Barnhoorn, Yifan Chen.
 
