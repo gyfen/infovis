@@ -16,6 +16,7 @@ project:
         - file: docs/2_data.ipynb
         - file: docs/3_story.ipynb
         - file: docs/4_reflectie.ipynb
+        - file: docs/5_werkverdeling.ipynb
 
 site:
     template: book-theme
