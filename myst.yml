@@ -11,7 +11,8 @@ project:
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
     toc:
-        - file: docs/1_introductie.ipynb
+        - file: docs/0_home.md
+        - file: docs/1_inleiding.ipynb
         - file: docs/2_data.ipynb
         - file: docs/3_story.ipynb
         - file: docs/4_reflectie.ipynb
@@ -22,4 +23,4 @@ site:
     options:
         favicon: static/imgs/favicon.ico
         logo: static/imgs/site_logo.png
-        style: static/css/custom.css  # Path to your CSS file
+        style: static/css/custom.css # Path to your CSS file
