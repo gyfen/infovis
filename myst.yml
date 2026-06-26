@@ -2,8 +2,8 @@
 version: 1
 project:
     id: 2201bb55-2263-4145-87d1-34fbb329bdd2
-    title: "Criminaliteit"
-    description: "Criminaliteit"
+    title: "Criminaliteit in de VS: oost vs west"
+    description: "Criminaliteit in de VS: oost vs west"
     # keywords: []
     # authors: ["Information Visualisation Groep 4"]
     github: "gyfen/infovis"
@@ -13,10 +13,9 @@ project:
     toc:
         - file: docs/1_introductie.ipynb
         - file: docs/2_data.ipynb
-        - file: docs/3_inhoud.ipynb
+        - file: docs/3_argumenten.ipynb
         - file: docs/4_reflectie.ipynb
         - file: docs/5_bijlagen.ipynb
-        - file: docs/infovis.ipynb
 
 site:
     template: book-theme
